@@ -1,0 +1,34 @@
+# Site settings
+name: Tyler J. McRill
+email: tjmcrill@gmail.com
+#canonical_url: https://edwinexemplar.com
+keywords: "Software Engineer, Java, ReactJS, Web Development, Google Cloud Firestore, Startups, Agile"
+skills: "Software Engineer/Student in Columbus, Ohio"
+baseurl:
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# You should replace these with your social networks, of course. :)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/tyler-james-mcrill/
+  - title: github
+    url: https://github.com/tjmcrill
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 408ec6
+  primary-rgb: "64, 142, 198"
+  secondary: 1e2761
+  secondary-dark: 7a2048
+  section-tout: eaf1f1
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
